@@ -1,0 +1,44 @@
+{
+  "Anuncios": [
+    {
+      "titulo": "Mercedes",
+      "transaccion": "Venta",
+      "descripcion": "Auto Caro",
+      "precio": "950000",
+      "puertas": "4",
+      "kms": "200",
+      "potencia": "180",
+      "id": 1
+    },
+    {
+      "titulo": "chevrolet",
+      "transaccion": "Alquiler",
+      "descripcion": "Auto Usado",
+      "precio": "50000",
+      "puertas": "5",
+      "kms": "57000",
+      "potencia": "120",
+      "id": 8
+    },
+    {
+      "titulo": "Ford",
+      "transaccion": "Permuta",
+      "descripcion": "Auto medio",
+      "precio": "15000",
+      "puertas": "2",
+      "kms": "23000",
+      "potencia": "165",
+      "id": 9
+    },
+    {
+      "titulo": "Peugeot",
+      "transaccion": "Alquiler",
+      "descripcion": "peuget bueno",
+      "precio": "120000",
+      "puertas": "4",
+      "kms": "41000",
+      "potencia": "400",
+      "id": 10
+    }
+  ]
+}
